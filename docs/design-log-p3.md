@@ -2,7 +2,6 @@
 
 **Author:** Logan Maher 
 **P2 code used:** Instructor reference (`-DUSE_P2_REFERENCE=ON`), because the uploaded P3 starter did not include the student's P2 `Conversation` and `SentinelScanner` source files.  
-**Tools used:** ChatGPT assisted with interpreting the specification, implementing and reviewing the three required components, writing additional tests, and interpreting build/test results. The implementation and results should be reviewed and understood before the oral check-in.
 
 ## 1. Hash table
 

@@ -2,7 +2,7 @@
 
 **Author:** Logan Maher 
 
-**P2 code used:** Instructor reference (`-DUSE_P2_REFERENCE=ON`), because the uploaded P3 starter did not include the student's P2 `Conversation` and `SentinelScanner` source files.  
+**P2 code used:** Instructor reference (`-DUSE_P2_REFERENCE=ON`) was used.
 
 ## 1. Hash table
 
